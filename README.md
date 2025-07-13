@@ -34,17 +34,17 @@ know-the-beaches/
    git clone https://github.com/cacheranjith/beachapp.git
    cd beachapp
    
-2.Open index.html in your browser:
+2. Open index.html in your browser:
     start index.html     # (Windows)
     open index.html      # (Mac)
 
 ---
 
 📌 Technologies Used
-  HTML5
-  CSS3
-  JavaScript (ES6)
-  Leaflet.js (OpenStreetMap)
+  HTML5,
+  CSS3,
+  JavaScript (ES6),
+  Leaflet.js (OpenStreetMap),
   OpenWeatherMap API
 
 🙋‍♂️ Author
