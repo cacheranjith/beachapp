@@ -1,3 +1,5 @@
+Live Link: https://cacheranjith.github.io/beachapp/
+
 # 🏖️ Know The Beaches
 
 **Know The Beaches** is a simple web application that helps users explore popular beaches in India. It shows their suitability, local weather, 
